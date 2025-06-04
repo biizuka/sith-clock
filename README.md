@@ -24,7 +24,7 @@ Acesse a pasta:
 cd sith-clock
 Abra o arquivo index.html em seu navegador.
 
-🌐 Publicação no GitHub Pages
+## 🌐 Publicação no GitHub Pages
 Para publicar:
 
 Vá em Settings → Pages
@@ -34,7 +34,7 @@ Escolha a branch main e pasta /root
 Após alguns segundos, seu site estará disponível em:
 https://SEU_USUARIO.github.io/sith-clock/
 
-🛡️ Licença
+## 🛡️ Licença
 Este projeto é livre para uso educacional e pessoal. Para usos comerciais da imagem gerada por IA, consulte os termos de uso da OpenAI.
 
 Feito com ⚔️ pela Força e o poder do lado sombrio.
